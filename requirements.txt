@@ -1,0 +1,11 @@
+# Python 3.14.7 (versiones con las que se generó la entrega final)
+duckdb==1.5.5
+lightgbm==4.7.0
+optuna==4.9.0
+pandas==2.2.2
+numpy==2.4.3
+scipy==1.17.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+nbformat==5.11.1
+jupyter

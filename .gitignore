@@ -1,0 +1,12 @@
+# Se regeneran con los notebooks
+data/
+*.parquet
+entregas/
+exp/*
+!exp/08_optuna/
+exp/08_optuna/*
+!exp/08_optuna/hiperparametros_p42.json
+# Sistema
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
